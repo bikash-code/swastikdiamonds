@@ -16,7 +16,7 @@ Project:	Advisor
     common classes
 -----------------------------------------------------------------*/
 a {
-    color: #09a223;
+    color: #F0DC75;
 }
 
 h1 a:hover,
@@ -25,15 +25,15 @@ h3 a:hover,
 h4 a:hover,
 h5 a:hover,
 h6 a:hover {
-    color: #09a223;
+    color: #F0DC75;
 }
 
 .color-default {
-    color: #09a223 !important;
+    color: #F0DC75 !important;
 }
 
 .btn-link {
-    color: #09a223;
+    color: #F0DC75;
 }
 
 #header .main-nav li a:hover,
@@ -42,19 +42,19 @@ h6 a:hover {
 }
 
 #header .search-container .search button {
-    color: #09a223;
+    color: #F0DC75;
 }
 
 #header .search-container .search input[type="text"]:focus {
-    border-color: #09a223;
+    border-color: #F0DC75;
 }
 
 .no-touch .cd-slider-nav a:hover {
-    background-color: #09a223;
+    background-color: #F0DC75;
 }
 
 .cd-slider-nav .cd-marker {
-    background-color: #09a223;
+    background-color: #F0DC75;
 }
 
 #footer a:hover {
@@ -62,41 +62,41 @@ h6 a:hover {
 }
 
 .btn-primary {
-    background-color: #09a223;
+    background-color: #F0DC75;
 }
 
 .owl-dots .owl-dot.active {
-    background-color: #09a223;
+    background-color: #F0DC75;
 }
 
 .counter span {
-    color: #09a223;
+    color: #F0DC75;
 }
 
 .service-box,
 .service-box.two:hover {
-    border-color: #09a223;
+    border-color: #F0DC75;
 }
 
 .service-box.three:after {
-    background: #09a223;
+    background: #F0DC75;
 }
 
 .service-box i {
-    color: #09a223;
+    color: #F0DC75;
 }
 
 .toggle .toggle-heading a i {
-    color: #09a223;
-    border-color: #09a223;
+    color: #F0DC75;
+    border-color: #F0DC75;
 }
 
 .meet-advisors-content h3 {
-    color: #09a223;
+    color: #F0DC75;
 }
 
 .selectboxit-list>.selectboxit-focus>.selectboxit-option-anchor {
-    background-color: #09a223;
+    background-color: #F0DC75;
 }
 
 #header .main-nav li.dropdown ul.dropdown-menu li a:hover,
@@ -105,82 +105,82 @@ h6 a:hover {
 }
 
 .cd-slider-nav li .slide-number {
-    background-color: #09a223;
+    background-color: #F0DC75;
 }
 
 .cd-slider-nav li.selected .slide-number,
 .cd-slider-nav li:hover .slide-number {
-    color: #09a223;
+    color: #F0DC75;
 }
 
 #header.header-two .header-contact-widget li i {
-    color: #09a223;
+    color: #F0DC75;
 }
 
 #header.header-two .header-contact-widget li p a:hover {
-    color: #09a223;
+    color: #F0DC75;
 }
 
 .breadcrumbs li a:hover {
-    color: #09a223;
+    color: #F0DC75;
 }
 
 .blog-item .blog-content h3 a:hover {
-    color: #09a223;
+    color: #F0DC75;
 }
 
 .blog-item .blog-meta li a:hover {
-    color: #09a223;
+    color: #F0DC75;
 }
 
 .categories li a:hover {
-    color: #09a223;
+    color: #F0DC75;
 }
 
 .tags li a:hover {
-    color: #09a223;
-    border-color: #09a223;
+    color: #F0DC75;
+    border-color: #F0DC75;
 }
 
 .popular-post h4 a:hover {
-    color: #09a223;
+    color: #F0DC75;
 }
 
 .search {
-    background-color: #09a223;
+    background-color: #F0DC75;
 }
 
 .search .search-icon:hover i {
-    color: #09a223;
+    color: #F0DC75;
 }
 
 .blog-item-classic .blog-content a.btn-link,
 .blog-item .blog-content a.btn-link {
-    border-color: #09a223;
+    border-color: #F0DC75;
 }
 
 .blog-item-classic .blog-content h3 a:hover {
-    color: #09a223;
+    color: #F0DC75;
 }
 
 .news-paggination li a:hover {
-    color: #09a223;
+    color: #F0DC75;
 }
 
 .company-history li .year {
-    color: #09a223
+    color: #F0DC75
 }
 
 .company-history li .history-content:before {
-    background-color: #09a223
+    background-color: #F0DC75
 }
 
 .team-member h4 {
-    color: #09a223
+    color: #F0DC75
 }
 
 .list-bullets li:before {
-    background: #09a223;
+    background: #F0DC75;
 }
 
 .left-nav li a:hover,
@@ -190,81 +190,81 @@ h6 a:hover {
 }
 
 .help-widget {
-    background-color: #09a223;
+    background-color: #F0DC75;
 }
 
 .product-description h3 a:hover {
-    color: #09a223;
+    color: #F0DC75;
 }
 
 .product-description .product-cart-btn:hover,
 .product-description .product-detail-btn:hover {
-    color: #09a223;
+    color: #F0DC75;
 }
 
 .product-thumb label {
-    background: #09a223;
+    background: #F0DC75;
 }
 
 .ui-slider-horizontal .ui-slider-range {
-    background: #09a223;
+    background: #F0DC75;
 }
 
 .top-products .top-products-detail i {
-    color: #09a223;
+    color: #F0DC75;
 }
 
 .top-products .top-products-detail h4 a:hover {
-    color: #09a223;
+    color: #F0DC75;
 }
 
 .ratings i {
-    color: #09a223;
+    color: #F0DC75;
 }
 
 .resp-vtabs li.resp-tab-active {
-    color: #09a223;
+    color: #F0DC75;
 }
 
 .resp-tab-active {
-    background: #09a223;
+    background: #F0DC75;
 }
 
 .cart-total .amount {
-    color: #09a223;
+    color: #F0DC75;
 }
 
 .banner-btn.colored {
-    background: #09a223;
+    background: #F0DC75;
 }
 
 .map-with-address-widget a:hover {
-    color: #09a223;
+    color: #F0DC75;
 }
 
 blockquote {
-    border-color: #09a223;
+    border-color: #F0DC75;
 }
 
 .cases-filter-nav li a:hover,
 .cases-filter-nav li a.selected {
-    background: #09a223;
+    background: #F0DC75;
 }
 
 .product-detail-slider .rslides_tabs li.rslides_here a {
-    background: #09a223
+    background: #F0DC75
 }
 
 .review-form-close:hover {
-    background: #09a223;
+    background: #F0DC75;
 }
 
 .btn.btn-dark:hover {
-    background: #09a223;
+    background: #F0DC75;
 }
 
 .btn-primary:hover {
-    background-color: #047f19;
+    background-color: #bfb8b0;
 }
 
 a:hover,
@@ -319,7 +319,7 @@ aside .testimonial-content {
 }
 
 .highlighted-sec li:nth-child(1n+1) .text-box {
-    background: #09a223;
+    background: #F0DC75;
 }
 
 .highlighted-sec li:nth-child(2n+2) .text-box {
@@ -344,7 +344,7 @@ aside .testimonial-content {
 
 
 .services.highlighted .owl-item:nth-child(3n+1) .service-box {
-    background: #09a223;
+    background: #F0DC75;
 }
 
 .services.highlighted .owl-item:nth-child(3n+2) .service-box {
@@ -381,7 +381,7 @@ aside .testimonial-content {
 }
 
 .testimonial-2 .testimonials-author p {
-    color: #09a223;
+    color: #F0DC75;
 }
 
 #header.header-three .main-nav li a:hover,

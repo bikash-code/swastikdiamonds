@@ -4053,11 +4053,11 @@ FOOTER
 }
 
 .brownColor {
-	background: #2a0902;
+	background: #483f3a;
 }
 
 .brownColor h1 {
-	color: #c08d24;
+	color: #F0DC75;
 }
 
 .brownColor p {
@@ -4066,31 +4066,31 @@ FOOTER
 
 
 .orangeColor {
-	background: #c08d24;
+	background: #f2f5fc;
 }
 
 .orangeColor h1 {
-	color: #2a0902;
+	color: #483f3a;
 }
 
 .orangeColor p {
-	color: #000;
+	color: #483f3a;
 }
 
 .creamColor {
-	background: #fcecd8;
+	background: #bfb8b0;
 }
 
 .creamColor h1 {
-	color: #2a0902;
+	color: #483f3a;
 }
 
 .orangeColor h2 {
-	color: #2a0902;
+	color: #483f3a;
 }
 
 .creamColor p {
-	color: #2a0902;
+	color: #483f3a;
 }
 
 .contact-form input[type="text"],
@@ -4100,7 +4100,7 @@ FOOTER
 .contact-form [type="tel"],
 .contact-form textarea {
 	font-family: 'Quicksand', sans-serif;
-	background: #fcecd8;
+	background: #e3dcd4;
 }
 
 @media (max-width:768px) {
@@ -4170,7 +4170,7 @@ FOOTER
 }
 
 .awardsItem {
-	background: #c08d24;
+	background: #483f3a;
 	padding: 10px;
 	margin-bottom: 30px;
 	min-height: 100px;
