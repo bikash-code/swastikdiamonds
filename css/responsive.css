@@ -24,7 +24,7 @@
     }
 
     .navbar-toggle .icon-bar {
-        border-bottom: 3px solid #c08d24;
+        border-bottom: 3px solid #F0DC75;
     }
 
     .navbar-toggle {
@@ -44,8 +44,8 @@
         line-height: normal !important;
         font-size: 14px;
         padding: 10px 0 !important;
-        color: #c08d24;
-        border-top: 1px solid #c08d24 !important;
+        color: #F0DC75;
+        border-top: 1px solid #F0DC75 !important;
     }
 
     #header .main-nav .dropdown-menu {
